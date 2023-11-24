@@ -1,0 +1,29 @@
+SCR_GameModeCampaign : "{0F307326459A1395}Prefabs/MP/Modes/GameMode_Base.et" {
+ ID "56B2B479C6B96951"
+ components {
+  SCR_DataCollectorComponent "{5ADE83EE64329989}" {
+   m_bOptionalKicking 1
+  }
+  SCR_DebriefingScreenComponent "{5D349E302A88E42C}" {
+   m_sHeaderTitle "#AR-Campaign_ScenarioName_Everon"
+  }
+  SCR_NotificationSenderComponent "{56FA84B04BE7D4C0}" {
+   m_iKillFeedType FULL
+   m_iReceiveKillFeedType ALL
+  }
+  SCR_WelcomeScreenComponent "{5D349E3E9CC39991}" {
+   m_sHeaderTitle "#AR-Campaign_ScenarioName_Everon"
+  }
+ }
+ coords 26.726 0 10.962
+ m_iControlPointsThreshold 61
+ m_iMaxRespawnRadios 2
+ m_iQuickSuppliesReplenishThreshold 120
+ m_iSuppliesArrivalInterval 2
+ m_iRegularSuppliesIncome 4
+ m_iMinStartingSupplies 300
+ m_iMaxStartingSupplies 350
+ m_sBLUFORFactionKey "RHS_US_USMC"
+ m_iSpawnCost 10
+ m_iSuicideRespawnDelay 60
+}

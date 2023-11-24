@@ -1,2 +1,37 @@
 # MOS_Reforger
 Materiale iniziale Arma Reforger M.O.S. Italia
+
+Disclaimer: La mod è la documentazione sono elementi work in progress, comunichiamo e condividiamo eventuali attivita in corso per evitare overlap/rollback.
+se necessario usiamo le branch.
+
+Il progetto nasce dalla volonta di fornire al MOS un materiale base per iniziare ad esplorare Arma Reforger.
+
+Contenuti della mod:
+
+Mappe Conflict: Kunar ed Everon
+USMC by RHS
+Modern Russia basata su RHS
+Modern FIA (wip)
+Equipaggiamento extra RHS: M110DMR, M249 Rails, P320
+Better mods: miglioramento effetti
+Bacon Stun Grenade
+Server Admin Tools (configurato in server test, da replicare su server MOS)
+ARU virtual arsenal
+Tank Abrams
+Tank T-72
+Joint Light Tactical Vehicles
+(...)
+
+la modalita conflict è preparata e funzionante, gli item USMC sono stati duolicati da quello base US e la fazione è ststa agfiornata oggetto per oggetto.
+il tutto è poi inserito nel file System.conf per aggiungerlo agli editor.
+
+Roadmap:
+
+- Mappe GM: Priorità 1, convertire le attuali e trovarne di nuove. il processo è piu semplice che con le conflict.
+- ricerca ulteriori mod da integrare
+- Esercito Italiano -> sto provando a fare le uniformi su Blender poi provero a fare le armi (l'esperienza con l'M27 tornerà utile)
+
+il server prova (per ora ma a breve lo stacco) è:
+Khaeltan Test Reforger
+pass: Khaeltan23!
+password admin: 02x60

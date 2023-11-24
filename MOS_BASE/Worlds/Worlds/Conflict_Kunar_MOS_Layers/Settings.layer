@@ -1,0 +1,55 @@
+SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
+ components {
+  NavmeshWorldComponent "{5584F30E67F617AD}" {
+   NavmeshSettings NavmeshWorld "{50FC63BEBE3973C5}" {
+    NavmeshFilesConfig BaseNavmeshFilesConfig "{5ED61E1351674A75}" {
+     NavmeshFile "{035ABEBE4FEF7507}world/Namvesh/Soldier.nmn"
+    }
+   }
+  }
+  NavmeshWorldComponent "{5C8C9B750D124A63}" {
+   NavmeshSettings NavmeshWorld "{5C8C9B750B60C6E2}" {
+    NavmeshFilesConfig BaseNavmeshFilesConfig "{5C90BD0EC793647D}" {
+     NavmeshFile "{8A80827815FEB190}world/Namvesh/Lowres.nmn"
+    }
+   }
+  }
+ }
+ coords 72.713 204.108 3800.075
+}
+PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 65.872 205.082 3805.255
+}
+TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
+ coords 71.932 207.582 3810.655
+}
+SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Conflict/GameMode_Campaign.et" {
+ coords 41.257 181.348 3824.533
+}
+ScriptedChatEntity : "{536D80EB494DDC43}Prefabs/MP/Campaign/CampaignMPChatEntity.et" {
+ coords 70.274 208.014 3812.979
+}
+RadioManagerEntity : "{B8E09FAB91C4ECCD}Prefabs/Radio/RadioManager.et" {
+ coords 69.383 206.478 3808.238
+}
+SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/MP/Campaign/CampaignFactionManager.et" {
+ coords 65.49 207.222 3812.795
+ angleX 15.506
+ angleY -2.796
+ angleZ -8.641
+}
+HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
+ coords 66.054 206.071 3808.469
+}
+SCR_BaseTaskManager : "{17E3EF2CF455460F}Prefabs/MP/Campaign/CampaignTaskManager.et" {
+ coords 67.42 204.758 3804.305
+}
+SCR_LoadoutManager CampaignLoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManager.et" {
+ coords 2390.396 180.323 2103.185
+}
+ItemPreviewManagerEntity ItemPreviewManager1 : "{9F18C476AB860F3B}Prefabs/World/Game/ItemPreviewManager.et" {
+ coords 69.924 208.325 3815.41
+}
+SCR_EditorModeEntity : "{E8DD27917B43F8BD}Prefabs/Editor/Modes/EditorModeBuilding.et" {
+ coords 39.714 188.046 3810.953
+}

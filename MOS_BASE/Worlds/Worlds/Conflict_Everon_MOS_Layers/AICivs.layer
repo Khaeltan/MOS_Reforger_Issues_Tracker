@@ -1,0 +1,6817 @@
+$grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+ {
+  coords 7491.055 6.604 6714.259
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -59.512 3.049 44.787
+    }
+    {
+     coords -99.864 3.085 -11.197
+    }
+   }
+  }
+ }
+ {
+  coords 1071.705 2.72 6028.615
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 22.771 0.094 69.908
+    }
+    {
+     coords -81.023 0.125 2.023
+    }
+   }
+  }
+ }
+ {
+  coords 4926.943 2.188 3873.303
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 97.905 0 -39.758
+    }
+    {
+     coords 54.617 0.539 29.38
+    }
+   }
+  }
+ }
+ {
+  coords 4907.886 28.845 11730.102
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 2.185 -0.25 143.548
+    }
+    {
+     coords 0.514 -0.25 0.681
+    }
+   }
+  }
+ }
+ {
+  coords 7446.37 162.753 4365.29
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -28.771 0.216 -66.311
+    }
+    {
+     coords 99.872 4.101 -95.327
+    }
+    {
+     coords 109.396 4.101 -36.961
+    }
+   }
+  }
+ }
+ {
+  coords 3945.5 15.704 8492.848
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -23.032 -0.484 -92.482
+    }
+    {
+     coords -104.723 -3.609 -84.213
+    }
+    {
+     coords -119.559 -4.007 -1.938
+    }
+   }
+  }
+ }
+ {
+  coords 6907.698 70.137 8616.322
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -65.381 -4.162 25.206
+    }
+    {
+     coords -51.409 0.605 -45.764
+    }
+    {
+     coords -6.928 3.183 -48.776
+    }
+   }
+  }
+ }
+ {
+  coords 5876.413 13.582 9951.999
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 68.02 -2.758 -84.772
+    }
+    {
+     coords -0.38 -0.365 -4.369
+    }
+   }
+  }
+ }
+ {
+  coords 5172.765 32.238 9250.8
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 3.217 0.751 -124.231
+    }
+    {
+     coords -0.748 0.135 0.404
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1292.724 37.716 6038.14
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5142.827 14.499 4002.729
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4943.656 28.38 11979.468
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7569.671 166.845 4310.344
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3349.928 159.932 5765.312
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3901.461 15.323 8434.833
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6877.277 67.435 8640.186
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5329.865 26.626 8396.682
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4452.47 57.421 6188.292
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5838.166 4.563 9795.078
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4428.603 63.179 4963.927
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3308.521 115.634 4395
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6526.527 87.024 5278.794
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5758.888 216.846 7054.987
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5263.642 64.215 5323.333
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4143.957 39.876 7758.793
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7555.822 82.782 5501.333
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2676.637 94.645 5383.615
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4505.9 13.907 9476.059
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4912.681 35.989 9101.694
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9247.894 58.821 2067.012
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2831.793 86.518 6329.278
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5848.268 235.303 7253.672
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7692.978 341.214 3085.818
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8542.326 131.824 3372.792
+ }
+ {
+  coords 7978.982 209.85 4277.094
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 228.157 7.764 89.431
+    }
+    {
+     coords -0.354 -0.025 0.441
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10817.624 11.094 1532.585
+ }
+ {
+  coords 11666.426 4.726 2109.413
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 22.229 2.833 177.186
+    }
+    {
+     coords -1.644 0.355 0.302
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9338.792 5.532 5052.158
+ }
+ {
+  coords 9340.747 196.696 1146.245
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 80.271 -6.308 25.054
+    }
+    {
+     coords 0.743 0.222 0.227
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10364.765 34.596 382.235
+ }
+ {
+  coords 8713.173 120.067 3191.352
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 71.217 10.123 37.559
+    }
+    {
+     coords 107.429 17.598 106.306
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8489.262 153.322 3631.787
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6786.572 91.304 5686.415
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5222.404 78.114 5040.941
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4827.589 83.839 4449.083
+ }
+ {
+  coords 5235.947 78.946 6380.913
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 113.414 1.816 -78.282
+    }
+    {
+     coords 0.02 0.005 0.056
+    }
+   }
+  }
+ }
+ {
+  coords 4644.67 56.282 6236.194
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 63.05 4.756 36.04
+    }
+    {
+     coords 0.08 0 0.016
+    }
+   }
+  }
+ }
+ {
+  coords 4274.564 59.563 5854.209
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -49.841 7.911 -74.182
+    }
+    {
+     coords 0.028 0 0.071
+    }
+   }
+  }
+ }
+ {
+  coords 4893.536 52.799 5894.75
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -11.438 -0.211 -246.334
+    }
+    {
+     coords -0.043 -0.001 -0.046
+    }
+   }
+  }
+ }
+ {
+  coords 3351.892 120.277 5111.351
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -103.075 -5.464 77.759
+    }
+    {
+     coords -0.016 -0.001 0.018
+    }
+   }
+  }
+ }
+ {
+  coords 3029.328 114.132 5189.776
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 98.541 5.09 37.885
+    }
+    {
+     coords 0.106 -0.009 0.064
+    }
+   }
+  }
+ }
+ {
+  coords 2179.648 21.141 7418.659
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 67.199 -1.241 73.222
+    }
+    {
+     coords 0.023 0.001 -0.041
+    }
+   }
+  }
+ }
+ {
+  coords 5751.276 29.497 10215.265
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 7.926 5.158 218.609
+    }
+    {
+     coords 0.021 -0.034 -0.027
+    }
+   }
+  }
+ }
+ {
+  coords 5299.637 21.313 9818.147
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 69.098 -3.911 216.016
+    }
+    {
+     coords 0.138 0.131 0.177
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5222.957 38.268 11359.311
+ }
+ {
+  coords 4318.524 11.075 12213.434
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 102.898 9.968 -95.056
+    }
+    {
+     coords 0.037 0.003 -0.034
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4869.346 111.136 8133.268
+ }
+ {
+  coords 5021.211 26.283 9991.598
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -11.629 0.66 -116.534
+    }
+    {
+     coords -0.062 -0.004 0.06
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4923.489 36.132 9174.081
+  angleY 70.931
+ }
+ {
+  coords 4562.375 16.233 10028.805
+  angleY -20.38
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 48.449 1.855 124.561
+    }
+    {
+     coords 100.463 -0.643 87.649
+    }
+    {
+     coords 78.326 -1.932 -22.381
+    }
+   }
+  }
+ }
+ {
+  coords 4987.004 30.868 10593.056
+  angleY -20.38
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -141.294 1.406 -2.704
+    }
+    {
+     coords -122.074 11.584 -127.057
+    }
+    {
+     coords 38.714 5.934 -80.465
+    }
+    {
+     coords 109.867 7.052 -51.219
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5261.388 26.051 9378.152
+ }
+ {
+  coords 5382.052 10.532 8732.01
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -208.425 30.726 85.978
+    }
+    {
+     coords -328.108 29.626 305.955
+    }
+    {
+     coords -153.032 25.559 285.924
+    }
+    {
+     coords 36.427 7.366 77.143
+    }
+   }
+  }
+ }
+ {
+  coords 4632.682 119.405 8161.375
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -150.109 0.505 -3.189
+    }
+    {
+     coords -339.125 -24.034 -6.591
+    }
+    {
+     coords -466.556 -56.297 -31.163
+    }
+    {
+     coords -465.749 -64.803 -158.194
+    }
+    {
+     coords -200.322 -23.458 -229.334
+    }
+    {
+     coords -115.973 -11.682 -217.737
+    }
+    {
+     coords -33.083 0.971 -78.336
+    }
+   }
+  }
+ }
+ {
+  coords 9329.498 84.486 2225.195
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -69.105 -0.087 57.577
+    }
+    {
+     coords -119.449 6.826 112.156
+    }
+    {
+     coords -152.427 -0.067 116.294
+    }
+   }
+  }
+ }
+ {
+  coords 9107.287 73.552 2073.585
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -48.23 7.03 31.025
+    }
+    {
+     coords -87.049 7.495 57.486
+    }
+    {
+     coords -134.539 11.624 103.169
+    }
+   }
+  }
+ }
+ {
+  coords 8104.546 205.583 3870.904
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 44.917 -1.955 66.818
+    }
+    {
+     coords 110.532 -9.257 111.902
+    }
+    {
+     coords 191.37 -3.053 132.613
+    }
+   }
+  }
+ }
+ {
+  coords 7891.401 256.247 4046.83
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -124.433 -3.91 -109.818
+    }
+    {
+     coords -190.989 -20.979 -23.326
+    }
+    {
+     coords -131.391 -10.379 22.79
+    }
+    {
+     coords -84.101 -15.28 96.49
+    }
+    {
+     coords 27.777 -11.685 86.851
+    }
+   }
+  }
+ }
+ {
+  coords 7065.706 99.583 4617.745
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -78.341 -18.386 -42.895
+    }
+    {
+     coords -157.865 -42.604 -129.026
+    }
+    {
+     coords -202.575 -65.051 -232.148
+    }
+    {
+     coords -169.186 -26.223 22.3
+    }
+    {
+     coords -33.123 -3.192 28.2
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3774.054 117.125 5031.309
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3437.558 119.17 4984.397
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2863.048 90.535 4851.73
+ }
+ {
+  coords 2392.061 113.944 5487.462
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -42.083 -22.88 -90.88
+    }
+    {
+     coords -54.898 -34.903 -146.16
+    }
+    {
+     coords 9.815 -9.475 -95.264
+    }
+    {
+     coords 60.615 -15.162 16.558
+    }
+    {
+     coords 9.541 -3.051 43.41
+    }
+   }
+  }
+ }
+ {
+  coords 2547.969 87.993 5172.618
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 42.772 22.275 -11.77
+    }
+    {
+     coords 129.284 30.269 -11.1
+    }
+    {
+     coords 215.087 30.603 17.986
+    }
+    {
+     coords 254.541 33.01 53.368
+    }
+    {
+     coords 87.821 0.459 64.869
+    }
+    {
+     coords -31.058 -6.293 13.71
+    }
+   }
+  }
+ }
+ {
+  coords 3000.55 121.982 5495.357
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -79.157 -6.126 94.102
+    }
+    {
+     coords -160.355 -13.74 123.701
+    }
+    {
+     coords -270.273 -4.242 128.952
+    }
+    {
+     coords -331.022 -3.404 157.694
+    }
+    {
+     coords -386.539 -2.696 232.709
+    }
+    {
+     coords -153.194 9.229 241.542
+    }
+    {
+     coords -39.635 -7.329 162.546
+    }
+   }
+  }
+ }
+ {
+  coords 3444.778 118.827 4978.456
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -20.879 -1.413 -83.461
+    }
+    {
+     coords -56.762 21.881 -112.724
+    }
+    {
+     coords -137.799 -0.15 -96.62
+    }
+    {
+     coords -170.91 -4.11 -38.449
+    }
+    {
+     coords -111.012 2.881 36.81
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3852.537 101.856 6314.41
+ }
+ {
+  coords 3905.345 103.454 6265.487
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 103.783 -1.6 -12.314
+    }
+    {
+     coords 161.835 -6.633 -41.529
+    }
+    {
+     coords 213.207 -22.027 -91.199
+    }
+    {
+     coords 239.985 -30.665 -169.807
+    }
+    {
+     coords 224.871 -21.785 -209.624
+    }
+    {
+     coords 217.774 -23.106 -283.794
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4638.017 160.411 6915.8
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4733.842 162.499 6998.693
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4751.167 160.967 7153.148
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4787.12 167.714 6918.276
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4849.31 167.196 6917.554
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4879.684 170.98 7036.141
+ }
+ {
+  coords 7653.53 126.257 5022.182
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 6.206 0.373 -69.993
+    }
+    {
+     coords 56.828 4.356 -49.828
+    }
+    {
+     coords 50.956 26.298 -28.731
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 9339.403 49.697 1959.836
+  angleY 139.609
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords -0.084 0.006 7.129
+    angleY -139.609
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 8583.349 125.142 3297.564
+  angleX -0.196
+  angleY 119.977
+  angleZ 0.235
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.186 -0.321 6.869
+    angleX -0.301
+    angleY -119.977
+    angleZ -0.052
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 8109.655 223.074 4151.876
+  angleX 0.249
+  angleY 158.28
+  angleZ -0.15
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.043 -0.381 6.438
+    angleX 0.287
+    angleY -158.281
+    angleZ -0.047
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 5834.401 102.05 5929.406
+  angleX -0.218
+  angleY 116.983
+  angleZ 0.276
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.097 -0.22 6.166
+    angleX -0.345
+    angleY -116.983
+    angleZ -0.069
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 4641.198 111.319 8237.273
+  angleX -7.124
+  angleY -0.989
+  angleZ 0.123
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords -0.224 0.014 6.35
+    angleX 7.125
+    angleY 0.981
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 4554.637 21.92 9712.805
+  angleX 1.977
+  angleY 17.681
+  angleZ -0.309
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.214 -0.121 6.1
+    angleX -1.79
+    angleY -17.7
+    angleZ 0.895
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 4930.538 27.697 11492.204
+  angleY -173.933
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.016 -0.031 6.006
+    angleY 173.933
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 6828.388 73.158 4807.329
+  angleX 2.522
+  angleY 139.618
+  angleZ 0.204
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords -0.08 -0.007 6.264
+    angleX 1.789
+    angleY -139.586
+    angleZ 1.79
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 5897.025 12.665 4366.746
+  angleX -3.576
+  angleY 90.111
+  angleZ -0.007
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.7 0.019 6.222
+    angleY -90.111
+    angleZ -3.576
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 5228.398 75.174 5083.251
+  angleX -4.68
+  angleY -35.194
+  angleZ 1.113
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.25 0.072 6.779
+    angleX 4.465
+    angleY 35.218
+    angleZ 1.79
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 3803.886 115.758 4964.645
+  angleX -0.811
+  angleY -64.998
+  angleZ -0.378
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.06 0.01 6.75
+    angleY 65.001
+    angleZ 0.895
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 6736.636 146.872 7124.276
+  angleX -3.655
+  angleY 83.486
+  angleZ -0.482
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords -0.18 -0.063 6.474
+    angleX 0.893
+    angleY -83.498
+    angleZ -3.577
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 5620.087 213.436 7097.372
+  angleX -7.165
+  angleY -79.122
+  angleZ -0.469
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.016 0.045 5.889
+    angleX 0.888
+    angleY 79.207
+    angleZ 7.125
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 2980.958 28.649 6962.246
+  angleX -11.18
+  angleY 71.636
+  angleZ -0.014
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.87 0.229 6.859
+    angleX 3.516
+    angleY -71.962
+    angleZ -10.62
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 4019.873 109.055 6708.16
+  angleX 8.856
+  angleY 91.417
+  angleZ 1.103
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords -0.402 -0.037 6.172
+    angleX -0.885
+    angleY -91.4
+    angleZ 8.88
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 1506.269 53.386 5972.164
+  angleX 1.012
+  angleY 98.103
+  angleZ -0.76
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.715 0.02 6.645
+    angleX 0.895
+    angleY -98.103
+    angleZ 0.895
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 2112.063 109.72 5418.698
+  angleX -1.968
+  angleY -52.959
+  angleZ -0.364
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.537 -0.051 5.804
+    angleX 0.895
+    angleY 52.979
+    angleZ 1.79
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 7595.665 163.294 4520.532
+  angleX 1.264
+  angleY 48.298
+  angleZ 0.073
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.734 0.158 6.544
+    angleX -0.895
+    angleY -48.304
+    angleZ 0.895
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 8818.705 94.961 2763.805
+  angleX -1.964
+  angleY 164.397
+  angleZ -0.38
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.001 0.024 6.956
+    angleX -1.789
+    angleY -164.376
+    angleZ -0.895
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 4927.395 36.36 9178.527
+  angleX 0.361
+  angleY -20.559
+  angleZ 0.047
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.243 -0.137 5.953
+    angleX -0.322
+    angleY 20.56
+    angleZ -0.171
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 4958.602 28.423 10652.114
+  angleX 1.124
+  angleY 162.366
+  angleZ 0.582
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.002 0.017 5.805
+    angleX 0.895
+    angleY -162.353
+    angleZ 0.895
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 5374.129 19.822 9966.272
+  angleX -1.986
+  angleY -70.464
+  angleZ 0.245
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.425 0 6.672
+    angleX 0.895
+    angleY 70.474
+    angleZ 1.79
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 8662.66 181.104 3689.598
+  angleY -143.656
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.224 -0.094 6.045
+    angleY 143.656
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 7089.934 117.072 5425.566
+  angleY -140.936
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.654 -0.055 6.723
+    angleY 140.936
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 5406.725 77.289 5653.866
+  angleX 0.886
+  angleY 8.239
+  angleZ 0.128
+  {
+   SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
+    coords 0.383 0.032 5.477
+    angleX -0.895
+    angleY -8.238
+   }
+  }
+ }
+ {
+  coords 8963.553 52.76 551.783
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -3.686 1.862 81.662
+    }
+    {
+     coords -70.496 -3.277 106.681
+    }
+    {
+     coords -63.666 -2.741 151.521
+    }
+    {
+     coords -36.698 6.872 118.308
+    }
+    {
+     coords 30.964 13.741 111.292
+    }
+    {
+     coords 70.534 5.181 85.695
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7939.597 12.526 1463.23
+ }
+ {
+  coords 7475.746 118.946 2055.113
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 51.436 -5.289 9.904
+    }
+    {
+     coords 80.819 -5.28 19.115
+    }
+    {
+     coords 95.453 -5.399 14.386
+    }
+   }
+  }
+ }
+ {
+  coords 8282.405 269.128 2569.883
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 13.715 -23.265 -102.484
+    }
+    {
+     coords -83.78 -0.44 -146.365
+    }
+    {
+     coords -119.057 28.474 -106.392
+    }
+    {
+     coords -101.104 61.042 0.78
+    }
+    {
+     coords -127.988 92.477 132.856
+    }
+    {
+     coords -147.78 87.27 196.917
+    }
+    {
+     coords -45.76 46.895 227.042
+    }
+    {
+     coords -52.977 54.234 139.927
+    }
+   }
+  }
+ }
+ {
+  coords 8338.663 217.875 2115.249
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 19.13 -1.504 -30.233
+    }
+    {
+     coords 110.291 10.917 -170.985
+    }
+    {
+     coords 228.119 61.604 -376.868
+    }
+    {
+     coords 243.99 58.328 -499.788
+    }
+    {
+     coords 443.477 56.635 -610.439
+    }
+    {
+     coords 421.126 71.463 -565.489
+    }
+    {
+     coords 431.087 92.138 -462.243
+    }
+    {
+     coords 357.141 93.965 -336.16
+    }
+    {
+     coords 252.928 73.335 -212.284
+    }
+    {
+     coords 239.038 69.47 45.113
+    }
+    {
+     coords 158.212 93.306 173.567
+    }
+    {
+     coords 50.283 49.234 154.025
+    }
+    {
+     coords 36.062 21.638 75.679
+    }
+   }
+  }
+ }
+ {
+  coords 7093.684 156.588 2077.68
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 67.878 -6.511 -2.769
+    }
+    {
+     coords 24.612 -8.245 89.938
+    }
+    {
+     coords -11.393 -5.655 136.38
+    }
+   }
+  }
+ }
+ {
+  coords 7563.323 195.156 2523.088
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -27.891 -12.451 -43.416
+    }
+    {
+     coords -145.166 -47.477 -88.782
+    }
+    {
+     coords -231.688 -56.124 -20.975
+    }
+    {
+     coords -236.465 -47.577 85.871
+    }
+    {
+     coords -109.596 -15.093 120.356
+    }
+   }
+  }
+ }
+ {
+  coords 6980.352 58.329 3486.074
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -44.973 -17.826 -108.841
+    }
+    {
+     coords -66.5 -27.09 71.633
+    }
+    {
+     coords 38.623 7.281 17.75
+    }
+   }
+  }
+ }
+ {
+  coords 10947.23 55.84 1995.619
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -80.47 20.604 44.222
+    }
+    {
+     coords -49.803 29.016 82.336
+    }
+    {
+     coords -154.76 45.826 127.128
+    }
+    {
+     coords -254.814 82.022 300.539
+    }
+    {
+     coords -306.05 88.432 243.21
+    }
+    {
+     coords -92.232 12.023 -7.851
+    }
+   }
+  }
+ }
+ {
+  coords 11243.325 16.744 2739.2
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -5.557 -8.317 -133.797
+    }
+    {
+     coords -127.388 18.717 -122.179
+    }
+    {
+     coords -324.099 91.495 -160.867
+    }
+    {
+     coords -347.187 125.788 -74.491
+    }
+    {
+     coords -478.352 61.353 9.589
+    }
+    {
+     coords -638.083 105.731 28.832
+    }
+    {
+     coords -853.428 119.713 188.848
+    }
+    {
+     coords -674.958 44.468 193.423
+    }
+    {
+     coords -704.188 22.64 252.709
+    }
+    {
+     coords -540.665 13.287 194.446
+    }
+    {
+     coords -517.566 15.223 133.451
+    }
+    {
+     coords -345.764 5.066 162.457
+    }
+    {
+     coords -179.11 7.112 93.049
+    }
+   }
+  }
+ }
+ {
+  coords 9448.576 326.595 3907.756
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -226.937 -53.891 54.809
+    }
+    {
+     coords -413.99 -57.078 240.112
+    }
+    {
+     coords -347.374 -87.496 280.99
+    }
+    {
+     coords -197.202 -63.845 85.695
+    }
+   }
+  }
+ }
+ {
+  coords 9278.509 9.207 5132.965
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -14.16 0.565 171.227
+    }
+    {
+     coords -211.347 19.3 95.912
+    }
+    {
+     coords -295.818 29.435 258.834
+    }
+    {
+     coords -302.588 35.221 140.476
+    }
+   }
+  }
+ }
+ {
+  coords 7781.792 2.343 5874.433
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -275.589 3.744 175.296
+    }
+    {
+     coords -392.79 4.018 573.929
+    }
+    {
+     coords -198.315 -0.57 192.757
+    }
+   }
+  }
+ }
+ {
+  coords 7145.99 61.097 7105.802
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 62.941 -7.696 19.46
+    }
+    {
+     coords 161.052 -30.117 92.89
+    }
+    {
+     coords 85.041 -13.333 69.396
+    }
+    {
+     coords 144.078 -33.07 156.602
+    }
+    {
+     coords 35.663 -8.536 151.419
+    }
+   }
+  }
+ }
+ {
+  coords 6495.759 168.117 7577.241
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 23.766 -13.265 -459.383
+    }
+    {
+     coords -51.891 -7.301 -463.443
+    }
+    {
+     coords -147.865 6.753 -52.112
+    }
+   }
+  }
+ }
+ {
+  coords 6370.154 74.126 8459.67
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 12.352 1.995 -81.428
+    }
+    {
+     coords -88.297 43.684 -233.071
+    }
+    {
+     coords -284.002 -27.587 -97.032
+    }
+    {
+     coords -115.675 -9.66 -16.98
+    }
+   }
+  }
+ }
+ {
+  coords 5608.667 69.549 8162.818
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -128.143 5.25 -209.286
+    }
+    {
+     coords -481.114 73.786 -647.422
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3825.896 5.659 7762.046
+ }
+ {
+  coords 3881.045 46.783 7123.244
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -4.192 14.325 -85.039
+    }
+    {
+     coords 13.716 21.544 -161.482
+    }
+   }
+  }
+ }
+ {
+  coords 4064.88 23.542 9016.973
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 100.344 2.398 11.223
+    }
+    {
+     coords 155.378 11.927 -80.735
+    }
+    {
+     coords 52.447 10.293 -64.099
+    }
+   }
+  }
+ }
+ {
+  coords 3868.777 14.082 7859.938
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 11.391 -6.339 201.22
+    }
+    {
+     coords 39.525 4.169 434.486
+    }
+   }
+  }
+ }
+ {
+  coords 2722.958 46.293 6822.088
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -101.849 2.732 107.945
+    }
+    {
+     coords -125.779 9.845 203.694
+    }
+    {
+     coords -244.809 8.444 102.202
+    }
+   }
+  }
+ }
+ {
+  coords 3060.843 26.079 6958.682
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 67.316 22.934 -133.45
+    }
+    {
+     coords 111.408 49.706 -428.978
+    }
+    {
+     coords 23.423 44.893 -352.938
+    }
+   }
+  }
+ }
+ {
+  coords 3773.233 161.11 4385.54
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 159.421 -9.871 -150.489
+    }
+    {
+     coords 24.637 -6.45 -189.567
+    }
+    {
+     coords 22.873 -0.989 -92.475
+    }
+   }
+  }
+ }
+ {
+  coords 2678.414 52.884 4454
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords -60.557 -0.286 -61.461
+    }
+    {
+     coords -42.713 0.26 -111.78
+    }
+    {
+     coords 36.363 -0.443 -134.688
+    }
+   }
+  }
+ }
+ {
+  coords 6002.668 96.421 5295.934
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 111.164 20.091 -199.349
+    }
+    {
+     coords -160.416 -4.433 -276.24
+    }
+    {
+     coords 306.859 9.313 -58.917
+    }
+   }
+  }
+ }
+ {
+  coords 7400.639 193.124 3994.404
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 89.096 6.698 21.309
+    }
+    {
+     coords 146.991 -21.207 133.354
+    }
+    {
+     coords -7.48 -8.488 95.545
+    }
+   }
+  }
+ }
+ {
+  coords 7184.785 137.68 4314.452
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 158.395 3.397 102.4
+    }
+    {
+     coords -0.281 -0.055 -0.021
+    }
+   }
+  }
+ }
+ {
+  coords 4435.658 8.961 11278.804
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 118.971 10.715 -44.99
+    }
+    {
+     coords 88.343 3.651 -142.166
+    }
+    {
+     coords 12.945 -3.242 -97.37
+    }
+   }
+  }
+ }
+ {
+  coords 9689.182 13.159 1541.96
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 36.85 7.995 -171.888
+    }
+    {
+     coords -73.765 11.491 151.128
+    }
+    {
+     coords 77.811 6.913 165.771
+    }
+    {
+     coords 110.521 -5.153 19.036
+    }
+   }
+  }
+ }
+ {
+  coords 9848.209 7.482 1614.384
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 180.378 -1.06 15.487
+    }
+    {
+     coords 6.707 -3.126 -68.766
+    }
+    {
+     coords 102.429 -5.254 -82.418
+    }
+   }
+  }
+ }
+ {
+  coords 10022.805 2.136 1535.583
+  {
+   $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
+    {
+     coords 101.49 -2.136 26.247
+    }
+    {
+     coords 102.318 0.249 -28.13
+    }
+    {
+     coords 29.829 1.674 50.372
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9990.33 2.333 1553.215
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4932.001 28.775 11763.172
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4937.66 28.594 11817.533
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 4919.88 44.022 11787.749
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4951.331 28.29 11971.9
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5302.574 38.23 11336.383
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5227.508 37.861 11405.175
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4413.37 1.688 11036.792
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4482.326 7.687 11011.096
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4525.337 14.449 10892.417
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4426.454 12.733 10741.352
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4595.744 17.914 10760.744
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4561.058 27.929 10502.783
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4549.887 15.969 10473.992
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4520.846 18.749 9426.123
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4513.88 18.216 9535.236
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4371.516 8.743 9537.16
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3944.157 15.656 8491.532
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3828.338 12.06 8459.84
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4180.205 42.596 7865.45
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4086.038 35.121 7776.278
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3907.259 75.377 6892.796
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2248.813 17.95 7540.268
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2154.63 19.577 7436.378
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1075.042 2.748 6056.958
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1290.754 37.549 6022.813
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1198.109 34.921 5985.63
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2572.797 96.199 5435.415
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2671.633 94.276 5384.915
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2894.782 86.923 6356.711
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2830.695 86.321 6332.286
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3496.361 179.803 5790.453
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3513.258 182.006 5821.617
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4757.145 169.228 6988.734
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4703.365 161.231 7065.36
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4728.634 163.602 6950.01
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4796.217 163.396 7105.074
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4832.769 170.046 6993.438
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4613.034 159.02 6950.179
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4866.617 169.696 6945.915
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4935.738 36.515 9086.089
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4911.323 35.98 9101.309
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4944.555 42.554 8989.021
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5256.94 26.073 9369.324
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5306.686 25.712 9409.534
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6339.917 5.508 9646.507
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6401.614 10.408 9680.678
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5732.685 30.08 10248.556
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5434.218 45.29 10485.349
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5409.624 43.267 10574.408
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5227.854 39.869 10497.32
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7410.917 2.664 9563.311
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7445.305 43.2 8275.561
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7727.846 13.654 8150.505
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7667.563 12.867 8071.016
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7515.242 6.178 6751.472
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7409.26 9.688 6727.664
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7591.031 80.499 5487.637
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7535.917 81.807 5568.743
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7097.263 118.145 6003.651
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7029.375 117.955 6010.604
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6564.185 154.731 7153.663
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6839.042 82.465 8202.728
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5510.807 75.304 7956.301
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5516.452 68.708 8036.057
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5758.381 221.988 7139.051
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5768.357 214.236 7028.962
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5710.074 220.354 7243.033
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5980.015 217.299 7241.507
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5853.227 235.812 7254.458
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5140.31 175.551 7044.508
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4672.136 57.778 6221.938
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4587.027 56.327 6231.571
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5640.442 91.687 5908.268
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5534.407 95.541 6049.584
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5294.309 61.679 5391.182
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5265.881 64.212 5319.234
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4949.208 13.42 3974.342
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5156.841 14.162 3970.975
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5103.125 14.605 4017.938
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2456.145 10.413 4247.43
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4466.949 63.19 5004.049
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7455.567 137.08 4738.156
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7540.66 142.118 4679.984
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6504.957 87.246 5291.317
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6208.656 108.728 5116.465
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7473.009 164.578 4280.077
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7533.658 166.844 4206.62
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7533.307 207.139 4014.469
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7967.579 249.595 4053.484
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8192.853 218.974 4125.982
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9328.51 3.793 5070.302
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8929.253 234.341 4001.372
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8873.731 204.979 3949.45
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8783.117 196.755 3900.047
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7680.847 340.664 3055.75
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7714.83 341.17 3054.041
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9422.338 213.498 2992.727
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9921.414 295.696 2579.859
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10101.323 312.01 2659.256
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9949.44 315.722 2270.205
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11690.432 7.936 2248.364
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 12079.222 30.934 1846.982
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11668.977 12.007 1446.585
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11169.692 3.895 1615.817
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10458.288 4.942 1607.756
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10021.362 2.489 1551.364
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10150.218 6.184 1618.592
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10142.883 2.597 1482.017
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9752.154 5.306 1500.022
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9678.104 16.949 1577.046
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9786.926 5.892 1400.385
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9717.173 22.201 1707.465
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9581.185 24.492 1568.743
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9254.102 58.086 2063.183
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9217.619 63.201 2117.486
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8836.582 95.042 2690.105
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8783.495 102.925 2874.279
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9325.212 208.944 1157.008
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9395.96 196.489 1169.12
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9304.092 185.611 1112.81
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9355.747 13.305 297.379
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10371.49 34.644 386.812
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7946.986 12.111 1435.402
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8273.71 255.119 2441.794
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8444.943 285.385 2340.353
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8241.068 224.125 2180.938
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7190.329 137.148 2346.085
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7189.808 137.761 2271.172
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7173.59 139.284 2447.398
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6577.547 5.379 3115.768
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10839.788 8.088 8734.437
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10885.762 14.31 8639.328
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10847.743 8.577 8661.474
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10909.117 12.8 8538.701
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10900.523 20.198 8863.626
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11372.732 68.582 11199.833
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11141.207 33.974 11599.649
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10946.508 25.245 11686.005
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10894.423 23.858 11773.322
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10982.183 24.119 11816.689
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10637.232 2.844 11838.964
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11053.003 22.644 11996.804
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11340.966 17.617 11842.546
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11494.526 2.451 10918.926
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3075.969 6.187 2121.933
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2894.724 7.036 2199.544
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2820.914 9.104 1801.061
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3142.654 3.233 2151.495
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2982.198 10.349 1715.117
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2717.131 5.481 2124.494
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6094.875 4.558 3364.971
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3482.263 133.531 4450.496
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3252.988 110.684 4352.147
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 986.306 26.358 11354.05
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1114.82 42.33 11645.821
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 940.11 34.944 11622.677
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1382.151 19.373 11277.999
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1379.444 39.627 11438.466
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1391.887 2.704 11618.139
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1551.341 20.032 11212.167
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1093.658 41.724 11409.988
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9582.347 11.873 5348.259
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 6038.953 2.971 10032.476
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 6125.809 2.289 10278.575
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 9276.788 2.771 5799.45
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5576.624 8.207 12109.04
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11130.026 35.643 1843.559
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11085.836 24.125 1805.382
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11131.066 22.186 1774.411
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11170.175 24.469 1799.414
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4667.167 23.983 12262.315
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5583.95 28.435 9843.17
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5611.747 26.899 9869.843
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4928.221 28.775 11771.733
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4938.152 36.291 11832.596
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4952.072 28.284 11874.105
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4957.777 28.282 11949.589
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4955.244 28.401 12003.168
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5028.426 27.126 11840.959
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5014.493 30.379 11638.549
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5229.779 37.927 11402.774
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5260.527 38.745 11345.167
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5302.204 38.247 11336.934
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5388.479 42.609 10983.735
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5059.549 27.819 10864.438
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4863.187 29.456 10600.021
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5293.104 38.937 10793.251
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5373.238 46.818 10480.625
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5352.417 41.713 10422.969
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5234.825 41.938 10554.087
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5346.512 43.541 10542.118
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5786.927 28.671 10160.971
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5732.753 30.056 10247.741
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4594.504 18.424 10740.61
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4606.274 32.573 10660.641
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4607.925 18.199 10641.474
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4403.51 9.962 10748.553
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4450.456 12.93 10734.797
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4406.858 12.219 10664.654
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4635.981 18.891 10799.112
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4583.795 19.331 10934.353
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4615.099 15.699 10493.149
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4497.995 19.813 10465.137
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4523.092 20.411 10378.715
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4558.017 27.901 10500.695
+  angleY -95.048
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4557.131 16.689 10552.321
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4165.495 15.873 10595.07
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4209.863 38.164 10292.307
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4492.537 18.899 10193.221
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4587.394 13.842 10221.313
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4492.694 16.03 10239.787
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4446.58 15.091 9596.281
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4541.658 18.287 9558.926
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4521.882 18.749 9425.938
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4414.125 13.066 9526.716
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4524.845 10.701 9398.784
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4599.515 19.7 9501.718
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5021.269 26.147 10151.668
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4830.035 36.653 9048.638
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4898.051 35.674 9133.188
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4980.556 40.515 9029.161
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4938.983 37.894 9057.568
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5258.505 26.07 9370.854
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5323.328 26.946 9330.818
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5582.229 28.524 9843.817
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5617.313 26.838 9872.812
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5377.31 10.531 8708.346
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4194.273 21.585 9077.027
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 4567.026 68.984 8813
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 4602.081 68.132 8823.272
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4585.302 68.807 8814.146
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4022.473 35.893 8549.8
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3903.886 15.313 8436.859
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3826.073 12.062 8460.932
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3850.667 13.664 8426.146
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3888.235 15.306 8490.73
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3826.845 10.584 7641.516
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3828.251 3.7 7763.295
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4248.506 73.505 7919.89
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4196.7 41.345 7818.082
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4087.356 36.74 7749.673
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4056.11 32.108 7807.638
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4199.876 49.507 7621.18
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6996.948 81.803 8244.223
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6936.928 86.327 8305.354
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6765.728 94.424 8171.429
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7539.408 3.149 9110.648
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7309.909 2.158 9341.81
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7728.061 3.484 9391.778
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7806.305 17.066 8168.703
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7615.606 26.685 8306.958
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7434.159 45.021 8293.313
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7648.743 13.549 8050.887
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7685.826 13.417 8109.136
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7515.634 6.171 6750.88
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7528.235 2.468 6680.245
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7407.712 7.489 6637.662
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7421.56 9.688 6732.976
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 7185.432 47.926 6945.575
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7247.322 47.136 7681.398
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7252.845 47.345 7658.655
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7233.734 47.507 7691.188
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6534.68 155.05 7125.338
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6593.904 153.816 7168.243
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6236.162 179.828 7481.038
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6017.506 215.459 7200.948
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5970.198 218.724 7246.211
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5701.854 218.785 7255.572
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5826.648 231.071 7325.043
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5897.901 225.536 7161.561
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5721.367 215.903 7033.754
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5705.529 220.052 7127.16
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5851.038 217.664 7088.491
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5806.01 212.743 7008.524
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5095.315 176.895 6988.684
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5134.039 175.896 7047.383
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5228.234 171.564 7058.247
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5155.483 174.032 7102.44
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4541.03 156.094 6873.131
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4600.211 150.732 7070.081
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4693.608 159.419 7143.21
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4824.586 166.656 7086.773
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4864.646 169.528 6943.563
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4757.429 169.234 6992.303
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4785.404 169.679 6993.739
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4688.181 168.618 7067.913
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4711 167.825 6926.576
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4758.282 166.119 6932.125
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4815.138 154.567 6807.639
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5102.995 183.806 7046.902
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2312.215 11.122 7666.616
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2288.002 18.439 7513.984
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2233.591 18.413 7530.964
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2157.949 19.961 7436.042
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2282.945 22.258 7456.712
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 2604.206 46.315 7291.312
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 2490.57 60.958 7227.205
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2395.254 47.98 6883.298
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1432.126 62.246 6155.229
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1447.575 62.1 6117.302
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1167.318 33.933 6309.167
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1199.858 30.065 6103.789
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1273.775 37.441 6037.212
+  angleY 138.614
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1276.857 42.927 5905.611
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1079.018 10.29 6013.156
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1074.434 2.812 6151.526
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1012.341 2.689 6029.542
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 896.016 2.723 6141.728
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1664.818 71.469 5754.322
+  angleY 175.181
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 1519.444 47.894 5564.496
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2261.594 126.395 5817.19
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2519.511 107.891 5546.41
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2611.996 89.498 5326.957
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2660.759 91.68 5328.765
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2604.056 101.625 5491.361
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2568.201 95.879 5434.276
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2646.457 94.419 5405.036
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2662.673 86.513 6060.125
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2957.999 108.688 6133.225
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3111.428 104.91 6210.914
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3509.392 100.784 6437.382
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3726.496 79.879 6629.586
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2392.972 10.181 4246.912
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2514.274 10.383 4213.766
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2461.144 10.49 4257.498
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 2643.356 4.611 4123.869
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3390.644 127.699 4502.788
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3510.48 150.554 4481.068
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 3501.081 134.368 4431.08
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3195.324 104.625 4323.385
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3186.96 108.241 4501.651
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3357.88 124.223 4531.877
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3036.527 121.762 5488.343
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3315.276 117.607 5133.498
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3283.325 114.453 5153.931
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3801.038 117.571 5029.128
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3633.066 107.387 4848.03
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3282.133 154.5 5780.202
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3550.136 159.056 5651.229
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3640.181 152.966 5950.282
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3472.043 168.808 5908.438
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3446.143 173.676 5766.101
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3498.888 181.464 5820.119
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 3899.637 102.132 6325.262
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4227.092 119.703 6488.918
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4303.246 58.749 5839.837
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 4420.313 54.979 6152.055
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 4478.778 57.715 6210.869
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4612.354 66.537 6338.216
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4591.017 56.375 6243.727
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4663.898 56.476 6220.993
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 4690.92 59.031 6249.877
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5233.774 75.285 6317.442
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5353.528 81.067 6294.581
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5653.388 133.449 6590.811
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5664.885 91.576 5891.107
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5707.655 92.275 5907.354
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5583.613 114.397 5846.65
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5506.557 93.1 6005.165
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5567.69 97 6100.716
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5644.187 113.649 6110.41
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6127.514 83.72 5755.462
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6260.807 164.25 6480.38
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6567.453 154.559 7152.251
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6527.595 143.759 6950.767
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6637.921 136.313 6987.247
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6721.655 147.913 7131.277
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 6745.626 145.972 7112.233
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 6582.77 151.996 7116.576
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5096.761 138.289 7751.928
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5579.756 84.457 8009.29
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 5409.304 45.177 8123.26
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 5415.189 76.407 7901.818
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 5396.028 82.202 7866.894
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 5606.205 69.731 8157.734
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7052.799 94.059 8411.777
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6973.525 86.453 8273.763
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6839.696 82.997 8198.782
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6679.244 151.085 7834.833
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7441.22 44.78 8295.403
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 7033.332 93.889 7121.11
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6869.341 122.905 6566.334
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6885.162 123.714 6662.685
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6631.426 109.624 5878.61
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6640.58 116.189 5967.088
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7107.858 119.285 6042.044
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType SQUAD_RIFLE
+   }
+  }
+  coords 7102.076 123.209 6033.514
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7118.516 114.959 5955.875
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6959.372 117.632 6005.045
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7089.019 119.85 6128.413
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7143.958 118.413 6067.804
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7092.492 117.692 6003.661
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7798.349 1.823 5840.619
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7557.105 83.013 5546.592
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7517.099 83.356 5492.415
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7591.658 80.361 5487.665
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7593.904 80.094 5592.354
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7646.411 77.996 5504.957
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7585.465 85.693 5381.445
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7619.017 124.198 5019.657
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7825.628 144.409 4747.246
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7987.438 174.438 4501.417
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8254.583 221.115 4377.062
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7350.279 122.344 5179.146
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6729.433 88.684 5649.652
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7058.738 115.463 5344.124
+  angleY 48.709
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6214.622 108.426 5102.614
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 6106.796 117.291 5086.995
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 6320.345 105.418 5300.84
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6273.678 116.36 5304.792
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6165.617 128.974 5253.303
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6501.844 87.315 5291.373
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 6798.268 70.824 4848.602
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 6784.331 69.227 4833.857
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 7458.755 137.002 4737.048
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 6761.326 7.96 4110.732
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 7058.712 79.638 3384.845
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 7051.173 79.714 3382.66
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7022.495 66.145 3496.036
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6769.833 33.84 3086.492
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6703.814 12.118 3041.476
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6578.904 5.227 3121.242
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 6599.361 7.428 2374.453
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7257.99 146.231 2617.57
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7277.802 139.028 2524.74
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7322.325 139.006 2496.884
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7220.48 137.485 2398.039
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7145.385 140.946 2447.336
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7070.815 156.822 2068.357
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7253.384 136.593 2203.354
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7135.454 140.148 2331.281
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7198.948 137.366 2275.093
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7463.446 128.416 2240.442
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 7636.981 86.307 1821.833
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 7658.62 86.736 1807.484
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7941.463 11.565 1438.271
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7953.63 1.076 1379.083
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7812.661 21.581 1538.52
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7902.17 16.904 1504.884
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7933.783 12.328 1453.203
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7766.46 176.14 2326.688
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7424.421 162.428 4339.953
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7406.592 162.53 4303.123
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7467.236 172.085 4265.628
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7551.076 166.845 4195.259
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7602.51 166.715 4297.609
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7482.12 205.937 3975.273
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7838.468 254.531 4034.028
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 7438.02 180.049 4090.819
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8104.519 205.602 3871.256
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8176.463 219.158 4120.061
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 8196.559 218.924 4125.492
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8496.062 177.583 3828.98
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8487.661 154.175 3644.531
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8333.423 154.952 3425.406
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8448.871 133.388 3367.875
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7709.799 326.739 3225.546
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7663.822 340.326 3052.596
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7774.841 339.488 3056.517
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8252.557 307.641 2830.568
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8261.697 256.687 2429.472
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8444.568 285.489 2331.192
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8094.782 235.366 2249.735
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 7625.814 250.201 3799.493
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9246.091 201.305 1162.665
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9289.359 196.693 1226.226
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9374.214 188.237 1106.769
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9429.521 214.173 1247.678
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9225.884 85.766 1559.215
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8403.774 12.968 791.96
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8386.408 12.881 773.394
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9290.294 14.688 314.287
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9361.853 14.025 303.291
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9338.979 17.036 369.436
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9424.543 27.438 339.957
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9315.479 12.15 397.601
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9361.816 3.168 239.938
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 10225.836 31.593 300.906
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10380.078 31.65 351.571
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10283.374 44.409 387.507
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 10300.879 46.43 472.63
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9709.02 139.542 755.745
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 9491.92 164.389 980.203
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 9857.016 31.121 1075.666
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9655.455 25.116 1387.634
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9827.715 5.113 1378.593
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9746.833 5.342 1513.753
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9648.913 22.777 1447.164
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9580.125 24.152 1538.312
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9617.887 22.837 1662.679
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9679.206 17.926 1580.122
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9711.722 11.935 1537.416
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9689.697 21.377 1611.181
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9718.183 27.885 1720.747
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9693.406 28.468 1724.93
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 9724.077 22.151 1708.916
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 9666.422 21.162 1707.735
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9840.124 7.655 1584.725
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9779.854 15.256 1596.085
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10005.32 9.984 1555.637
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10151.577 6.19 1619.206
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10192.217 2.685 1546.083
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10124.271 2.509 1388.124
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10191.35 2.483 1460.882
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10283.358 6.803 1555.369
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9422.521 44.925 1625.156
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9559.354 32.429 1649.557
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10798.591 9.609 1537.084
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 11206.759 12.232 1659.827
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_MG
+   }
+  }
+  coords 11162.839 11.787 1649.39
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11125.335 19.621 1731.115
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11090.351 31.057 1841.177
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11173.445 37.227 1840.477
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11199.73 67.91 1895.541
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10388.087 147.167 2097.37
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10572.982 195.043 2448.555
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10646.734 172.725 2399.496
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10678.055 206.513 2454.225
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10517.791 193.195 2413.03
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10732.021 244.465 2529.958
+  angleY -150.603
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10095.322 312.824 2633.484
+  angleY 144.714
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9953.356 316.076 2266.301
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9929.004 300.848 2602.074
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9986.387 310.233 2588.335
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9907.063 296.812 2611.645
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9878.388 292.258 2609.096
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9857.713 288.981 2543.55
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11529.906 2.344 2431.226
+  angleY 161.747
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11740.368 18.831 2309.33
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11781.587 20.306 2263.999
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11732.338 5.962 2085.58
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11729.55 23.441 2122.024
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11702.451 8.596 2225.055
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11624.658 0.475 2217.066
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 11247.546 17.141 2743.342
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10986.796 13.345 2899.135
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10693.497 30.315 2940.013
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10596.441 72.066 2880.431
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 10282.004 170.809 2892.762
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9615.356 3.357 5593.465
+  angleY 161.195
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9572.592 11.14 5339.313
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9488.784 43.052 4978.191
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9138.216 33.633 5008.133
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9137.003 82.351 4823.413
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9358.455 4.735 5085.647
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9306.807 7.617 5047.457
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9325.838 244.218 3282.129
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9546.53 236.455 2792.26
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8807.293 139.155 3341.634
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8789.818 102.627 2894.702
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8791.298 96.431 2713.191
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8916.772 96.196 2801.664
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9032.226 124.533 2761.348
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8910.151 96.044 2673.17
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8757.517 104.415 2632.942
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8637.371 124.459 2722.711
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9104.466 79.244 2318.034
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 8987.744 82.931 2152.413
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9192.482 64.784 2135.571
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9276.81 61.73 2114.794
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9354.672 56.735 2027.025
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9244.969 56.53 2032.229
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9244.402 57.082 1925.401
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9168.391 65.684 2062.771
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 9525.171 31.189 1775.651
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+   }
+  }
+  coords 9417.992 45.217 1618.165
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 9681.113 9.044 5435.222
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 9586.878 12.933 5412.55
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 9681.238 18.176 5301.755
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 9626.538 22.317 5294.286
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 9685.241 7.96 5443.381
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 9699.097 15.924 5223.61
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 11807.023 3.143 1374.878
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 11705.453 6.295 1424.907
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 11615.35 8.645 1425.574
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 11642.836 12.483 1524.704
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 8384.104 2.75 825.389
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 8379.047 12.486 775.107
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 8422.031 12.673 790.46
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 8459.122 2.191 847.818
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 8602.525 49.776 747.721
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 8467.493 13.939 919.622
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 5798.454 7.969 9734.365
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 5895.854 4.565 9728.865
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 5856.841 4.562 9756.184
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 5805.35 13.501 9795.996
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 5709.319 12.872 9603.146
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 5835.627 4.546 9810.352
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_bPickRandomGroupType 1
+   }
+  }
+  coords 5746.561 8.845 9767.557
+ }
+}

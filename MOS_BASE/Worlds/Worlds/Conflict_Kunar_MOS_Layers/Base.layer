@@ -1,0 +1,1274 @@
+$grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
+ Alep_HQ {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 600
+     }
+    }
+   }
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 100
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bCanBeHQ 1
+    m_bDisableWhenUnusedAsHQ 0
+    m_sBaseName "HQ Alep"
+    m_sBaseNameUpper "HQ Alep"
+    m_sMapLocationName "HQ Alep"
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "HQ Alep"
+   }
+   SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+    m_iSupplies 5000
+    m_iSuppliesMax 20000
+    m_fOperationalRadius 50
+   }
+   SCR_EditableSystemComponent "{5B0AB14FBD96A524}" {
+    m_UIInfo SCR_EditableDescriptorUIInfo "{5B0AB14FA66FFA19}" {
+     m_sFaction "USSR"
+    }
+   }
+   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
+    "faction affiliation" "USSR"
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_fHeight 100
+   }
+  }
+  coords 306.537 38.491 3151.607
+  angleX 4.699
+  angleY 99.468
+  angleZ -1.026
+  {
+   GenericEntity {
+    ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "USSR"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    components {
+     SCR_MapDescriptorComponent "{5C66967308165E76}" {
+      DisplayName "HQ Alep"
+     }
+    }
+    m_sFaction "USSR"
+   }
+  }
+ }
+ Bagdad_HQ {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 600
+     }
+    }
+   }
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 100
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bCanBeHQ 1
+    m_sBaseName "HQ Bagdad"
+    m_sBaseNameUpper "HQ Bagdad"
+    m_sMapLocationName "HQ Bagdad"
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "HQ Bagdad"
+   }
+   SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+    m_iSupplies 5000
+    m_iSuppliesMax 20000
+    m_fOperationalRadius 50
+   }
+   SCR_EditableSystemComponent "{5B0AB14FBD96A524}" {
+    m_UIInfo SCR_EditableDescriptorUIInfo "{5B0AB14FA66FFA19}" {
+     m_sFaction "USMC"
+    }
+   }
+   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
+    "faction affiliation" "USMC"
+   }
+  }
+  coords 3896.306 77.517 2152.409
+  angleX 0.886
+  angleY -8.364
+  angleZ -0.13
+  {
+   GenericEntity {
+    ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "USMC"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    components {
+     SCR_MapDescriptorComponent "{5C66967308165E76}" {
+      DisplayName "HQ Bagdad"
+      Faction 1
+     }
+    }
+    coords 2.075 0 0
+    m_sFaction "USMC"
+   }
+  }
+ }
+ Relay_Ramzan {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 800
+     }
+    }
+   }
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 60
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_iRadius 60
+    m_bDisableWhenUnusedAsHQ 0
+    m_sBaseName "Relay Ramzan"
+    m_sBaseNameUpper "Relay Ramzan"
+    m_sMapLocationName "Relay Ramzan"
+    m_eType RELAY
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "Relay Ramzan"
+    MainType Tree
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    m_iRadius 60
+    m_fMaximumSeizingTime 15
+    m_fMinimumSeizingTime 10
+   }
+   SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+    m_iSupplies 0
+    m_iSuppliesMax 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_fHeight 40
+   }
+  }
+  coords 3849.613 14.086 2619.706
+  {
+   GenericEntity : "{1A5B84D8AD7C44C2}Prefabs/Systems/MilitaryBase/TestCapturePoint.et" {
+    components {
+     SCR_CapturePointAreaMeshComponent "{5AFC9B0FEAC8CCA2}" {
+      m_fHeight 40
+     }
+     SCR_SeizingComponent "{5AFC974A5786100A}" {
+      m_iRadius 60
+      m_fMaximumSeizingTime 15
+      m_fMinimumSeizingTime 10
+     }
+    }
+    coords 0 0 0
+    {
+     GenericEntity {
+      ID "5AFC9B0D7086B45C"
+      scale 2.713
+     }
+    }
+   }
+   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType SQUAD_RIFLE
+      }
+     }
+     coords -53.936 -9.582 0.124
+     angleX 3.578
+     angleY -0.112
+     angleZ 0.887
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 22.306 -10.11 -72.86
+     angleX 0.007
+     angleY 0.224
+     angleZ -1.79
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -29.368 -10.508 -79.827
+     angleX -0.898
+     angleY -0.168
+     angleZ -0.892
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 53.344 -9.436 -63.425
+     angleX -0.002
+     angleY -0.14
+     angleZ -0.895
+    }
+   }
+  }
+ }
+ Relay_Donald {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 850
+     }
+    }
+   }
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 60
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_iRadius 55
+    m_bDisableWhenUnusedAsHQ 0
+    m_sBaseName "Relay Donald"
+    m_sBaseNameUpper "Relay Donald"
+    m_sMapLocationName "Relay Donald"
+    m_eType RELAY
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "Relay Donald"
+    MainType Tree
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    m_iRadius 40
+    m_fMaximumSeizingTime 15
+    m_fMinimumSeizingTime 10
+   }
+   SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+    m_iSupplies 0
+    m_iSuppliesMax 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_fHeight 40
+   }
+  }
+  coords 786.221 47.937 3224.76
+  angleX -2.167
+  angleY 13.774
+  angleZ 1.099
+  {
+   GenericEntity {
+    ID "5CCED514A5908822"
+    coords 26.675 -11.431 0.554
+    angleX -7.001
+    angleY 0.981
+    angleZ -7.994
+   }
+   GenericEntity : "{1A5B84D8AD7C44C2}Prefabs/Systems/MilitaryBase/TestCapturePoint.et" {
+    components {
+     SCR_CapturePointAreaMeshComponent "{5AFC9B0FEAC8CCA2}" {
+      m_fHeight 40
+     }
+     SCR_SeizingComponent "{5AFC974A5786100A}" {
+      m_iRadius 55
+      m_fMaximumSeizingTime 15
+      m_fMinimumSeizingTime 10
+     }
+    }
+    coords 0 0 0
+    {
+     GenericEntity {
+      ID "5AFC9B0D7086B45C"
+      scale 2.713
+     }
+    }
+   }
+   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -20.39 -9.645 3.408
+     angleX 1.297
+     angleY -0.059
+     angleZ -1.314
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 5.373 -7.889 -40.638
+     angleX -24.459
+     angleY 2.579
+     angleZ -4.278
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -29.626 -8.739 -27.102
+     angleX 2.147
+     angleY 0.361
+     angleZ 9.854
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -51.282 -7.529 -63.921
+     angleX 0.323
+     angleY 9.693
+     angleZ -0.611
+    }
+   }
+  }
+ }
+ Relay_Khabib {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 825
+     }
+    }
+   }
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 60
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_iRadius 60
+    m_bIsControlPoint 1
+    m_bDisableWhenUnusedAsHQ 0
+    m_sBaseName "Relay Khabib"
+    m_sBaseNameUpper "Relay Khabib"
+    m_sMapLocationName "Relay Khabib"
+    m_eType RELAY
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "Relay Khabib"
+    MainType Tree
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    m_iRadius 60
+    m_fMaximumSeizingTime 15
+    m_fMinimumSeizingTime 10
+   }
+   SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+    m_iSupplies 0
+    m_iSuppliesMax 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_fHeight 40
+   }
+  }
+  coords 3102.51 20.109 2742.873
+  {
+   GenericEntity {
+    ID "5CCED514A5908822"
+    components {
+     SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+      m_eGroupType TEAM_AT
+     }
+    }
+    coords -11.513 -10.546 -24.908
+   }
+   GenericEntity : "{1A5B84D8AD7C44C2}Prefabs/Systems/MilitaryBase/TestCapturePoint.et" {
+    components {
+     SCR_CapturePointAreaMeshComponent "{5AFC9B0FEAC8CCA2}" {
+      m_fHeight 40
+     }
+     SCR_SeizingComponent "{5AFC974A5786100A}" {
+      m_iRadius 60
+      m_fMaximumSeizingTime 15
+      m_fMinimumSeizingTime 10
+     }
+    }
+    coords 0 0 0
+    {
+     GenericEntity {
+      ID "5AFC9B0D7086B45C"
+      scale 5.507
+     }
+    }
+   }
+   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -38.008 -10.273 -33.79
+     angleX -1.788
+     angleY 0.056
+     angleZ -1.791
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 28.445 -2.975 -87.226
+     angleY 0.215
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -11.642 -9.87 18.919
+     angleX 0.897
+     angleY 0.102
+     angleZ -0.893
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType SQUAD_RIFLE
+      }
+     }
+     coords 24.293 -10.856 -0.056
+     angleX -1.982
+     angleY 18.708
+     angleZ 0.273
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType SQUAD_RIFLE
+      }
+     }
+     coords 46.038 -10.547 -36.768
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 12.527 -9.493 -33.79
+     angleX -1.791
+     angleY 0.056
+     angleZ 0.893
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -11.323 -9.883 14.994
+     angleX 0.895
+     angleY 0.056
+     angleZ 0.001
+    }
+   }
+  }
+ }
+ Relay_Vladimir {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 850
+     }
+    }
+   }
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 60
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_iRadius 55
+    m_bIsControlPoint 1
+    m_bDisableWhenUnusedAsHQ 0
+    m_sBaseName "Relay Vladimir"
+    m_sBaseNameUpper "Relay Vladimir"
+    m_sMapLocationName "Relay Vladimir"
+    m_eType RELAY
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "Relay Vladimir"
+    MainType Tree
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    m_iRadius 40
+    m_fMaximumSeizingTime 15
+    m_fMinimumSeizingTime 10
+   }
+   SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+    m_iSupplies 0
+    m_iSuppliesMax 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_fHeight 40
+   }
+  }
+  coords 1395.766 78.313 3194.51
+  angleX -1.083
+  angleY 13.786
+  angleZ 0.656
+  {
+   GenericEntity {
+    ID "5CCED514A5908822"
+    coords -24.393 -8.865 10.005
+    angleX 1.083
+    angleY -0.012
+    angleZ -0.656
+   }
+   GenericEntity : "{1A5B84D8AD7C44C2}Prefabs/Systems/MilitaryBase/TestCapturePoint.et" {
+    components {
+     SCR_CapturePointAreaMeshComponent "{5AFC9B0FEAC8CCA2}" {
+      m_fHeight 40
+     }
+     SCR_SeizingComponent "{5AFC974A5786100A}" {
+      m_iRadius 55
+      m_fMaximumSeizingTime 15
+      m_fMinimumSeizingTime 10
+     }
+    }
+    coords 0 0 0
+    {
+     GenericEntity {
+      ID "5AFC9B0D7086B45C"
+      scale 2.713
+     }
+    }
+   }
+   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType SQUAD_RIFLE
+      }
+     }
+     coords -54.691 -9.418 -2.539
+     angleX 1.082
+     angleY -0.056
+     angleZ -0.657
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -2.353 -9.348 -33.341
+     angleX 1.104
+     angleY 1.873
+     angleZ -0.62
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -33.048 -8.609 35.363
+     angleX 0.868
+     angleY 0.356
+     angleZ 0.219
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 31.155 -7.663 38.591
+     angleX 0.357
+     angleY 9.693
+     angleZ -0.821
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 29.613 -7.811 -24.24
+     angleX 1.39
+     angleY -4.11
+     angleZ -1.553
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 2.07 -1.87 1.489
+     angleX 1.156
+     angleY -4.106
+     angleZ -0.682
+    }
+   }
+  }
+ }
+ FOB_Blessing {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 925
+     }
+    }
+   }
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 150
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+    m_sBaseName "FOB Blessing"
+    m_sBaseNameUpper "FOB Blessing"
+    m_sMapLocationName "FOB Blessing"
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "FOB Blessing"
+   }
+   SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+    m_iSupplies 10000
+    m_iSuppliesMax 20000
+   }
+  }
+  coords 1935.978 15.705 3827.7
+  angleY -19.037
+  {
+   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -125.216 31.579 -47.13
+     angleX 15.72
+     angleY -63.63
+     angleZ 1.575
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -103.597 28.942 -52.345
+     angleX 3.639
+     angleY -63.663
+     angleZ 6.74
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -76.952 1.411 -12.797
+     angleX -1.79
+     angleY -70.745
+     angleZ -0.007
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -6.997 0.742 80.642
+     angleY -65.84
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 19.292 0.83 50.372
+     angleX 0.388
+     angleY -45.276
+     angleZ -0.807
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -101.02 0.378 122.754
+     angleX 2.461
+     angleY -47.428
+     angleZ 1.071
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -15.385 6.768 2.718
+     angleX -0.097
+     angleY -45.279
+     angleZ -0.092
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 53.684 68.311 152.2
+     angleX 13.316
+     angleY -24.904
+     angleZ -13.662
+    }
+   }
+  }
+ }
+ FOB_Michigan {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 1030
+     }
+    }
+   }
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 100
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+    m_sBaseName "FOB Michigan"
+    m_sBaseNameUpper "FOB Michigan"
+    m_sMapLocationName "FOB Michigan"
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "FOB Michigan"
+   }
+   SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+    m_iSupplies 10000
+    m_iSuppliesMax 20000
+   }
+  }
+  coords 2707.734 8 3094.013
+  angleY -59.057
+  {
+   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -72.656 0.222 -3.75
+     angleY 59.057
+     angleZ -0.895
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -78.135 0.502 -134.039
+     angleX -0.805
+     angleY 123.176
+     angleZ 0.391
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -72.317 0.291 -24.896
+     angleY 124.445
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -92.545 -0.166 -182.692
+     angleX 0.513
+     angleY 114.072
+     angleZ 0.733
+    }
+   }
+  }
+ }
+ Relay_Central {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 1550
+     }
+    }
+   }
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 60
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_iRadius 60
+    m_bIsControlPoint 1
+    m_bDisableWhenUnusedAsHQ 0
+    m_sBaseName "Relay Central"
+    m_sBaseNameUpper "Relay Central"
+    m_sMapLocationName "Relay Central"
+    m_eType RELAY
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "Relay Central"
+    MainType Tree
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    m_iRadius 60
+    m_fMaximumSeizingTime 30
+    m_fMinimumSeizingTime 20
+   }
+   SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+    m_iSupplies 0
+    m_iSuppliesMax 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_fHeight 40
+   }
+  }
+  coords 2198.383 33.202 3459.806
+  angleY 5.092
+  {
+   GenericEntity : "{1A5B84D8AD7C44C2}Prefabs/Systems/MilitaryBase/TestCapturePoint.et" {
+    components {
+     SCR_CapturePointAreaMeshComponent "{5AFC9B0FEAC8CCA2}" {
+      m_fHeight 40
+     }
+     SCR_SeizingComponent "{5AFC974A5786100A}" {
+      m_iRadius 60
+      m_fMaximumSeizingTime 30
+      m_fMinimumSeizingTime 20
+     }
+    }
+    coords 0 0 0
+    {
+     GenericEntity {
+      ID "5AFC9B0D7086B45C"
+      scale 5.507
+     }
+    }
+   }
+   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 100.229 -19.38 -96.254
+     angleY 0.192
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -10.925 -4.514 5.163
+     angleX -0.019
+     angleY 0.053
+     angleZ -1.269
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 0.944 -19.407 100.885
+     angleX 2.757
+     angleY 0.414
+     angleZ -0.633
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 55.563 32.296 195.002
+     angleX 29.908
+     angleY 98.167
+     angleZ 10.595
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 8.513 17.269 193.301
+     angleX 12.643
+     angleY -7.008
+     angleZ -16.55
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -118.059 -18.258 86.348
+     angleX 2.678
+     angleY -4.694
+     angleZ 0.913
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -36.724 -17.295 7.284
+     angleX 2.74
+     angleY -1.015
+     angleZ -0.701
+    }
+   }
+  }
+ }
+ Relay_Moutain {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 500
+     }
+    }
+   }
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 60
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_iRadius 60
+    m_bIsControlPoint 1
+    m_bDisableWhenUnusedAsHQ 0
+    m_sBaseName "Mountain Relay"
+    m_sBaseNameUpper "Mountain Relay"
+    m_sMapLocationName "Mountain Relay"
+    m_eType RELAY
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "Mountain Relay"
+    MainType Tree
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    m_iRadius 65
+    m_fMaximumSeizingTime 30
+    m_fMinimumSeizingTime 20
+   }
+   SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+    m_iSupplies 0
+    m_iSuppliesMax 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_fHeight 40
+   }
+  }
+  coords 2599.566 206.072 3589.643
+  angleY 5.092
+  {
+   GenericEntity {
+    ID "5CCED514A5908822"
+    coords 24.298 -3.524 21.969
+    angleX 8.999
+    angleY -0.157
+    angleZ -1.001
+   }
+   GenericEntity : "{1A5B84D8AD7C44C2}Prefabs/Systems/MilitaryBase/TestCapturePoint.et" {
+    components {
+     SCR_CapturePointAreaMeshComponent "{5AFC9B0FEAC8CCA2}" {
+      m_fHeight 40
+     }
+     SCR_SeizingComponent "{5AFC974A5786100A}" {
+      m_iRadius 60
+      m_fMaximumSeizingTime 30
+      m_fMinimumSeizingTime 20
+     }
+    }
+    coords 0 0 0
+    {
+     GenericEntity {
+      ID "5AFC9B0D7086B45C"
+      scale 5.507
+     }
+    }
+   }
+   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -17.148 -12.905 -10.671
+     angleX -2.112
+     angleY -0.024
+     angleZ 2.121
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords 51.861 -16.728 -3.816
+     angleX 24
+     angleY 1.303
+     angleZ -2.325
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType TEAM_AT
+      }
+     }
+     coords -17.032 -8.677 11.982
+     angleX 3.322
+     angleY -2.809
+     angleZ -15.573
+    }
+   }
+  }
+ }
+}
+$grp GenericEntity : "{207442723F49FC41}Prefabs/Compositions/Misc/SubCompositions/Sandbag_MG_US_02_M60.et" {
+ {
+  coords 2909.117 11.685 2870.617
+  angleY 102.332
+ }
+ {
+  coords 2908.792 11.635 2868.915
+  angleY 102.332
+ }
+ {
+  coords 1696.103 24.221 3767.377
+  angleY 168.437
+ }
+ {
+  coords 1694.378 24.221 3767.024
+  angleY 168.437
+ }
+ {
+  coords 1675.061 18.777 3892.799
+  angleY -146.559
+ }
+ {
+  coords 1673.701 18.808 3893.697
+  angleY -146.559
+ }
+}
+$grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupplyDepot.et" {
+ {
+  components {
+   SCR_CampaignSuppliesComponent "{59F288D533FE66DD}" {
+    m_iSupplies 100000
+    m_iSuppliesMax 100000
+   }
+  }
+  coords 2789.283 8.223 2993.502
+  angleY -51.585
+ }
+ {
+  components {
+   SCR_CampaignSuppliesComponent "{59F288D533FE66DD}" {
+    m_iSupplies 100000
+    m_iSuppliesMax 100000
+   }
+  }
+  coords 1773.208 16.761 3900.514
+  angleY -75.581
+ }
+}
+GenericEntity Central_Tower : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRelayRadio.et" {
+ components {
+  BaseRadioComponent "{5C727AD73024FB2A}" {
+   Transceivers {
+    RelayTransceiver "{5C727AD73024FB39}" {
+     "Transmitting Range" 2700
+    }
+   }
+  }
+  SCR_CampaignMilitaryBaseComponent "{5C727AD73024FB00}" {
+   m_sBaseName "Central Tower"
+   m_sBaseNameUpper "Central Tower"
+   m_sMapLocationName "Central Tower"
+  }
+  SCR_CampaignMilitaryBaseMapDescriptorComponent "{5CD2C48C8F5A230F}" {
+   DisplayName "Central Tower"
+  }
+ }
+ coords 1767.174 272.113 2821.18
+ angleY -95.456
+}
+$grp GenericEntity : "{7C85836D444E3797}Prefabs/Compositions/Slotted/SlotRoadMedium/Checkpoint_M_USSR_01.et" {
+ {
+  coords 2906.64 10.989 2867.991
+  angleX 0.873
+  angleY 102.693
+  angleZ 0.197
+ }
+ {
+  coords 1673.624 18.072 3896.005
+  angleY -146.028
+ }
+ {
+  coords 1692.647 23.46 3768.618
+  angleX 1.762
+  angleY 169.827
+  angleZ -0.316
+ }
+}
+$grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_sDefaultWaypointPrefab "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 2903.931 10.876 2868.432
+  angleX -0.197
+  angleY 20.921
+  angleZ -1.991
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_sDefaultWaypointPrefab "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 2890.205 10.199 2874.508
+  angleX 0.122
+  angleY 20.905
+  angleZ -2.826
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_sDefaultWaypointPrefab "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 2502.652 8.031 3173.498
+  angleY 19.868
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_sDefaultWaypointPrefab "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 2442.567 11.6 3205.184
+  angleX -5.405
+  angleY 19.694
+  angleZ 1.854
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_sDefaultWaypointPrefab "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 1332.455 29.129 3440.134
+  angleX 2.579
+  angleY 19.379
+  angleZ -1.937
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_sDefaultWaypointPrefab "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 1425.463 29.381 3457.621
+  angleX -0.844
+  angleY 19.397
+  angleZ -0.297
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_sDefaultWaypointPrefab "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 1012.471 34.193 3264.465
+  angleX -4.658
+  angleY -40.674
+  angleZ -5.398
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_sDefaultWaypointPrefab "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 1044.044 34.755 3285.307
+  angleX -5.817
+  angleY -40.178
+  angleZ 1.406
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_sDefaultWaypointPrefab "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 1678.982 18.099 3900.764
+  angleX 0.895
+  angleY -0.014
+  angleZ -0.895
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_sDefaultWaypointPrefab "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
+    m_eGroupType TEAM_AT
+   }
+  }
+  coords 1693.437 23.237 3774.978
+  angleX -4.466
+  angleY 0.07
+  angleZ -0.898
+ }
+}

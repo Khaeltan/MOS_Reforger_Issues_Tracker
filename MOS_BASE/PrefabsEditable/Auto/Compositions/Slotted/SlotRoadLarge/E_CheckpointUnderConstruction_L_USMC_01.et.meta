@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{05F145A1F7395123}PrefabsEditable/Auto/Compositions/Slotted/SlotRoadLarge/E_CheckpointUnderConstruction_L_US_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
+  }
+ }
+}

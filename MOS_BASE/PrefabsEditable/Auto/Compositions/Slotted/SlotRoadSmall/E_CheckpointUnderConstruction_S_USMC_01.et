@@ -1,0 +1,10 @@
+GenericEntity : "{A79B77635FA1A043}Prefabs/Compositions/Slotted/SlotRoadSmall/CheckpointUnderConstruction_S_US_01.et" {
+ ID "5282DCB5DFC8538F"
+ components {
+  SCR_EditableEntityComponent "{56A6E94EC517D7C1}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    m_sFaction "RHS_US_USMC"
+   }
+  }
+ }
+}

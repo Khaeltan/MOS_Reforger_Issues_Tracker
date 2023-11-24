@@ -1,0 +1,13 @@
+GenericEntity : "{A8EE997C4360A602}Prefabs/Compositions/VirtualArsenal/VirtualArsenal_US_01.et" {
+ ID "5282DCB5DFC8538F"
+ components {
+  SCR_EditableEntityComponent "{5D42A9D60C8E4C2E}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    m_sFaction "RHS_US_USMC"
+    m_aAutoLabels + {
+     1677929688
+    }
+   }
+  }
+ }
+}

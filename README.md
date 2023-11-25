@@ -8,19 +8,19 @@ Il progetto nasce dalla volonta di fornire al MOS un materiale base per iniziare
 
 Contenuti della mod:
 
--Mappe Conflict: Kunar ed Everon
--USMC by RHS
--Modern Russia basata su RHS
--Modern FIA (wip)
--Equipaggiamento extra RHS: M110DMR, M249 Rails, P320
--Better mods: miglioramento effetti
--Bacon Stun Grenade
--Server Admin Tools (configurato in server test, da replicare su server MOS)
--ARU virtual arsenal
--Tank Abrams
--Tank T-72
--Joint Light Tactical Vehicles
--(...)
+- Mappe Conflict: Kunar ed Everon
+- USMC by RHS
+- Modern Russia basata su RHS
+- Modern FIA (wip)
+- Equipaggiamento extra RHS: M110DMR, M249 Rails, P320
+- Better mods: miglioramento effetti
+- Bacon Stun Grenade
+- Server Admin Tools (configurato in server test, da replicare su server MOS)
+- ARU virtual arsenal
+- Tank Abrams
+- Tank T-72
+- Joint Light Tactical Vehicles
+- (...)
 
 la modalita conflict è preparata e funzionante, gli item USMC sono stati duplicati da quelli base US e la fazione è ststa aggiornata oggetto per oggetto.
 il tutto è poi inserito nel file System.conf per aggiungerlo agli editor.

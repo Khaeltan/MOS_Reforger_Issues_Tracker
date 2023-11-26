@@ -6,6 +6,9 @@ se necessario usiamo le branch.
 
 Il progetto nasce dalla volonta di fornire al MOS un materiale base per iniziare ad esplorare Arma Reforger.
 
+NOTA: Manca la localizzazione ITA del gioco, avviare il client con lingua inglese per avere la localizzazione corretta.
+Known Issues: in modalita' conflict i mezzi non si piazzano dalle strutture. fix in progress.
+
 Contenuti della mod:
 
 - Mappe Conflict: Kunar ed Everon

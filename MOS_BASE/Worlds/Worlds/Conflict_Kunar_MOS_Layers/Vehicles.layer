@@ -1,8 +1,0 @@
-$grp Vehicle : "{DF5CCB7C0FF049F4}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT.et" {
- Mi8MT1 {
-  coords 479.26 47.034 3221.583
- }
- Mi8MT2 {
-  coords 1897.046 17.893 3817.238
- }
-}
